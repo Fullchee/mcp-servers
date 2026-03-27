@@ -22,9 +22,9 @@ A minimal, single-file MCP server that gives LLMs read-only access to a MySQL da
       "env": {
         "MYSQL_HOST": "localhost",
         "MYSQL_PORT": "3307",
-        "MYSQL_USER": "djangouser",
-        "MYSQL_PASS": "!B0^rxR*8E2SZO09bbrE",
-        "MYSQL_DB": "universe"
+        "MYSQL_USER": "",
+        "MYSQL_PASS": "",
+        "MYSQL_DB": ""
       }
     }
   }
